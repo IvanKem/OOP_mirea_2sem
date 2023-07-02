@@ -1,0 +1,15 @@
+# ninja log v5
+2	2357	1678172176569040206	CMakeFiles/OOP_MIREA_2Sem_.dir/DFS.cpp.o	790b749d4b723022
+5	514	1680089093932659738	CMakeFiles/OOP_MIREA_2Sem_.dir/Second_pratice_Inheritance_Array.cpp.o	ed1f54680e1af7db
+0	367	1688310110509083249	CMakeFiles/OOP_MIREA_2Sem_.dir/Ecs_train_Matrix.cpp.o	dd6ad48053af54ac
+0	615	1688309351441889799	CMakeFiles/OOP_MIREA_2Sem_.dir/Ecs_train_Polynom.cpp.o	be51abf8d8a9d540
+1	586	1680352354491098582	CMakeFiles/OOP_MIREA_2Sem_.dir/MultInherit_thid_practice.cpp.o	3ce0f7097fb01dd7
+4	667	1682897455130276462	CMakeFiles/OOP_MIREA_2Sem_.dir/String_empty.cpp.o	50a55b9138e0c024
+3	40	1688329429524316984	build.ninja	f50b8396a9088ffa
+1	429	1676827689814475899	CMakeFiles/OOP_MIREA_2Sem_.dir/main.cpp.o	623f37e9e1c8cd0d
+0	556	1688162862467564463	CMakeFiles/OOP_MIREA_2Sem_.dir/Ecs_train_Array<T>.cpp.o	d84aed32a8b047b2
+0	450	1679243585614828949	CMakeFiles/OOP_MIREA_2Sem_.dir/Inheritance_Array_empty.cpp.o	651d533b7d6e7d84
+0	367	1688309364819916010	CMakeFiles/OOP_MIREA_2Sem_.dir/Ecs_train_Line.cpp.o	7f0ae9cdc0e0a46
+0	660	1686137769950603137	CMakeFiles/OOP_MIREA_2Sem_.dir/AVL_tree_empty.cpp.o	4d3c49e54983cbb5
+1	463	1678553814173698490	CMakeFiles/OOP_MIREA_2Sem_.dir/first_practise.cpp.o	b03ad694ce3d39d5
+367	429	1688310110570083397	OOP_MIREA_2Sem_	ee7acf96ec207c85

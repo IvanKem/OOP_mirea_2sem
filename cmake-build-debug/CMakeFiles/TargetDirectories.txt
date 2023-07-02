@@ -1,0 +1,3 @@
+/home/iv.kem/OOP_MIREA(2Sem)/cmake-build-debug/CMakeFiles/OOP_MIREA_2Sem_.dir
+/home/iv.kem/OOP_MIREA(2Sem)/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/iv.kem/OOP_MIREA(2Sem)/cmake-build-debug/CMakeFiles/rebuild_cache.dir
